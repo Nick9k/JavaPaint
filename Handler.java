@@ -1,16 +1,13 @@
 import javafx.collections.ObservableList;
 import javafx.scene.input.MouseEvent;
 import javafx.collections.FXCollections;
-import javafx.scene.shape.Circle;
 import java.util.ArrayList;
 import javafx.scene.control.ColorPicker;
 import javafx.scene.layout.Pane;
 import javafx.scene.control.ToggleButton;
-import javafx.scene.shape.Rectangle;
 import javafx.scene.Node;
 import javafx.event.EventHandler;
 import javafx.scene.Parent;
-import javafx.scene.shape.Line;
 import java.util.Collections;
 import java.util.List;
 
